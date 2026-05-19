@@ -4,7 +4,7 @@
 
 This project focuses on predicting **user engagement on Instagram** using machine learning techniques in a distributed data environment. Built on Databricks with PySpark, the project implements a full end-to-end pipeline including data preprocessing, feature engineering, model building, evaluation, and user segmentation.
 
----## Dataset
+## Dataset
 
 The dataset used in this project can be accessed from Kaggle:
 
